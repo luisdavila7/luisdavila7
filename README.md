@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @luisdavila7 System Engineer.
-- 👀 I’m interested in become a Fullstack and DevOps Developer.
-- 🌱 I’m currently learning Java, C#, JavaScript, Phyton, HTML, CSS, C, C++, SQL...
+- 👀 I’m working hard to became in a Fullstack and DevOps Developer.
+- 🌱 I’m currently learning Java, C#, JavaScript, Phyton, HTML, CSS, C, C++, SQL, React, Angular...
 - 💞️ I’m looking to collaborate on Back end.
 - 📫 Send me a email.
 <!---
